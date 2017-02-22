@@ -1,0 +1,11 @@
+H:\7 Code\VB\Grades\Grades\bin\Debug\Grades.exe.config
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.vbprojResolveAssemblyReference.cache
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.frmMain.resources
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.Resources.resources
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.vbproj.GenerateResource.Cache
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.xml
+H:\7 Code\VB\Grades\Grades\bin\Debug\Grades.exe
+H:\7 Code\VB\Grades\Grades\bin\Debug\Grades.pdb
+H:\7 Code\VB\Grades\Grades\bin\Debug\Grades.xml
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.exe
+H:\7 Code\VB\Grades\Grades\obj\Debug\Grades.pdb
